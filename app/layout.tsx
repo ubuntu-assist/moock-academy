@@ -13,8 +13,8 @@ const montserrat = Montserrat({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Bollo',
-    template: '%s | Bollo',
+    default: 'Mo\'ock Academy',
+    template: '%s | Mo\'ock Academy',
   },
   description:
     'Connect with skilled service providers across Africa for home repairs, cleaning, handyman services and more.',
